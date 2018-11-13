@@ -1,0 +1,45 @@
+  body{
+    background-image:url(../img/espacio.png);
+  }
+  
+  .titulo
+  {
+      text-align: center;
+      margin-left:40%;
+      border: 3px solid black;
+      border-radius:5px; 
+      height:80px;
+      width:20%;
+      color: white;  
+   
+  }
+  .parrafo1
+  {
+      text-align: center;
+      display: inline-block;  
+      border: 3px solid black;
+      border-radius:5px; 
+      height:440px; 
+      width:49.7%; 
+      color: white;
+      
+  }
+  .parrafo2
+  {
+      text-align: center;
+      display: inline-block;  
+      border: 3px solid black;
+      border-radius:5px;
+      color: black;
+      height:440px; 
+      width:49%; 
+  }
+  .centrado
+  {
+      margin:10px auto;
+ 	    display:block;
+ 	    border: 3px solid black;
+  }
+ 	a{
+ 	  color: white;
+ 	}
